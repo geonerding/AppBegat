@@ -11,5 +11,3 @@ Also there are some CSS options like the CSS Reset by Eric Meyer.  Just check th
 
 If you want to use the google maps API, you can add your key to the variable near the top of the launch.pyw script, and it will automatically populate in the index.html file.
 
-DISCLAIMER:
-I suck at programming.  This thing works but it isn't pretty code.  I've never even used most of the CDN libraries I added.  If you don't like how messy my code is then fix it and give it back to me.  Just remember that it works.
