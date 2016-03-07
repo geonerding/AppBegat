@@ -8,8 +8,6 @@ the project based on the configurations made in the GUI.
 If you want to configure the Google Maps API into your project,
 make sure you add your API key in the string below.
 
-Casey Sledge
-Sept 2014
 '''
 from Tkinter import *
 import ttk
